@@ -1,5 +1,5 @@
-# Gitcoin Tezos Submissions
-All the gitcoin tezos submissions live here
+# Gitcoin Tezos Bounties
+All the gitcoin tezos bounties live here
 
 
 # License
